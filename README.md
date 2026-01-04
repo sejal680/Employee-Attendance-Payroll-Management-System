@@ -1,4 +1,5 @@
 Employee Attendance & Payroll Management System
+
 A SQL-based project that automates employee attendance tracking, leave management, and monthly payroll calculation.
 This project demonstrates database design, complex SQL query writing, stored procedures, triggers, and analytics integration — all essential for software and data developer roles.
 
